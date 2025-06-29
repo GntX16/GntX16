@@ -1,5 +1,4 @@
-Newbie Developer, interested in everything.
-
+𝑵𝒆𝒘𝒃𝒊𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈.
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gntx) 
 
