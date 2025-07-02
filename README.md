@@ -1,5 +1,5 @@
 ## <𝑵𝒆𝒘𝒃𝒊𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒉𝒐 𝒊𝒔 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈/> 
-Note: feel free to give me improve-tips :)
+Note: feel free to give me improve-tips etc. :)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
