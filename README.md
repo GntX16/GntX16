@@ -3,7 +3,7 @@ Hi, my name is Hussin, and I love chess, coding and design that’s enjoyable fo
 
 ### <ins> Fun facts: </ins>  
 
-   -Coffe Lover (most of the time)
+   - Coffe Lover (most of the time)
 
 
 Note: feel free to give me any kind of improve-tips etc. :)
