@@ -2,9 +2,9 @@
 Hi, my name is Hussin, and I love chess, coding and design that’s enjoyable for the eyes. I used to be a video editor using Premiere Pro, but I set that hobby aside to focus on school. Now, I’m a software development student in my second semester. :)
 
 ### <ins> Fun facts: </ins>  
-'''
+```
 ¡Coffe Lover (most of the time)
-'''
+```
 
 Note: feel free to give me any kind of improve-tips etc. :)
 
