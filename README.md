@@ -1,7 +1,7 @@
 ## public String aboutMe = "𝑵𝒆𝒘𝒃𝒊𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒉𝒐 𝒊𝒔 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈";
 Hi my name is Hussin and I love coding and design that my eyes can enjoy. I used to be a Video Editor on Premiere Pro, but dropped this hobby to focus on school. Now I am a Software Developing Student in 2nd Semester :) 
 
-Fun facts: 
+Fun facts:                            
 ¡Coffe Lover (most of the time)
 
 Note: feel free to give me any kind of improve-tips etc. :)
