@@ -1,5 +1,5 @@
-## public String aboutMe = "𝑵𝒆𝒘𝒃𝒊𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒉𝒐 𝒊𝒔 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈";
-Hi, my name is Hussin <br/>I love chess♟️, coding and design that’s enjoyable for the eyes. <br/>I used to be a video editor using Premiere Pro, but I set that hobby aside to focus on school. Now, I’m a software development student in my second semester. :)
+## public String aboutMe = "𝑵𝒆𝒘𝒃𝒊𝒆 𝒘𝒉𝒐 𝒊𝒔 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈";
+Hi, my name is Hussin <br/>I love chess♟️, coding and design that’s enjoyable for the eyes. 👨🏻‍💻 <br/>I used to be a video editor using Premiere Pro, but I set that hobby aside to focus on school. Now, I’m a software development student in my second semester. :)
 
 <ins> **Fun facts**: </ins> <br/>  - Coffe Lover (most of the time)<br/>   - I stack mangas but never read them
 
