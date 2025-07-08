@@ -2,7 +2,6 @@
 Hi my name is Hussin and I love coding and design that my eyes can enjoy. I used to be a Video Editor on Premiere Pro, but dropped this hobby to focus on school. Now I am a Software Developing Student in 2nd Semester :) 
 
 Fun facts: 
-
 "Coffe Lover (most of the time)
 
 Note: feel free to give me any kind of improve-tips etc. :)
