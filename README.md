@@ -15,7 +15,7 @@ Hi, my name is Hussin 👋🏼 <br/>I love chess♟️, writing ✍🏻, coding 
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gntx16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=gntx16&theme=nightowl&hide_border=false)<br/>
+<br/>
 
 # 🌊 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
