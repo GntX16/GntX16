@@ -1,6 +1,6 @@
 ## ``` public String aboutMe = "𝑵𝒆𝒘𝒃𝒊𝒆 𝒘𝒉𝒐 𝒊𝒔 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈"; ```
 Hi, my name is Hussin 👋🏼 <br/>I love chess♟️, writing ✍🏻, coding and design that’s enjoyable for the eyes. 👨🏻‍💻 <br/>Ex-Video Editor on Premiere Pro (set that hobby aside to focus on school) and now a Software Development student in my second semester. :)
-
+<br/>
 <p>
   <img src="https://github.com/user-attachments/assets/4784e496-96f1-4c90-b174-860a13a62454" width="250" height="400" alt="Alt-Text" width="150" align="right" style="margin-right: 10px;">
 </p>
