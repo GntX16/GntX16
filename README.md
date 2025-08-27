@@ -5,7 +5,7 @@ Hi, my name is Hussin 👋🏼 <br/>I love chess♟️, writing ✍🏻, coding 
   <img src="https://github.com/user-attachments/assets/4784e496-96f1-4c90-b174-860a13a62454" width="250" height="400" alt="Alt-Text" width="150" align="right" style="margin-right: 10px;">
 </p>
 
-<ins> **Fun facts**: </ins> <br/>  - Coffe Lover (most of the time)<br/>   - I stack mangas but never read them :trollface: <br/>
+<ins> **Fun facts**: </ins> <br/>  - 3in1 Nescafé Lover (most of the time)<br/>   - I stack mangas but never read them :trollface: <br/> - Funko Pops Lover <br/>
 <br/>
 **🗒️Note**: feel free to give me any improve-tips etc. :) 
 
